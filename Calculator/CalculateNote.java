@@ -31,19 +31,19 @@ public class CalculateNote
 		}
 		else if(result<57)
 		{
-			System.out.println("Your grade point is between CC");
+			System.out.println("Your grade point is CC");
 		}
 		else if(result<65)
 		{
-			System.out.println("Your grade point is between BB ");
+			System.out.println("Your grade point is BB ");
 		}
 		else if(result<75)
 		{
-			System.out.println("Your grade point is between BA ");
+			System.out.println("Your grade point is BA ");
 		}
 		else if(result<85)
 		{
-			System.out.println("You are perfect man: Your grade point is between AA ");
+			System.out.println("You are perfect man: Your grade point is AA ");
 		}
 	}
 	
